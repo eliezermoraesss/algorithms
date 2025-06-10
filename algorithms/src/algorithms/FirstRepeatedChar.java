@@ -17,12 +17,13 @@ public class FirstRepeatedChar {
 	public static String findFirstRepeatedChar(String str) {
 		Set<Character> seen = new HashSet<>();
 		
-		for (char c : str.toCharArray()) {
+		for (char c : str.toCharArray()) { // O(n)
 			if (seen.contains(c)) return "Primeiro caractere repetido: " + c;
-			seen.add(c);
+			seen.add(c); // O(k)
 		}
 		return "Nenhum caractere repetido";
 	}
+	// Complexidade: Tempo O(n), Espaço O(k) onde k é número de caracteres únicos
 	
 	public static void main(String[] args) {
 		System.out.println(findFirstRepeatedChar("programming"));

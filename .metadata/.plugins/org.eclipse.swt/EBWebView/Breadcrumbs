@@ -1,129 +1,57 @@
-3:36:43 Microsoft.Shutdown.TabStripModel.CloseAllTabs
-3:36:43 Microsoft.Shutdown.TabStripModel.CloseTabs
-3:36:43 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
-3:36:43 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
-3:36:43 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
-3:36:43 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
-3:36:43 Microsoft.Shutdown.TabStripModel.CloseWebContentses
-3:36:43 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
-3:36:43 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
-3:36:43 Tab53 FinishNav373
-3:36:43 Tab53 RenderProcessGone
-3:36:43 Microsoft.UnloadController.ClearUnloadState
-3:36:43 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
-3:36:43 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
-3:36:43 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
-3:36:43 Microsoft.UnloadController.ClearUnloadState
-3:36:43 Browser53 Close Tab53 at 0
-3:36:43 Tab53 FinishNav374
-3:36:43 Tab53 WebContentsDestroyed
-3:36:43 Microsoft.UnloadController.TabStripEmpty
-3:36:43 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-3:36:43 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-3:36:43 Microsoft.Shutdown.OnWindowClosing
-3:36:43 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-3:36:43 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-3:36:43 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-3:36:43 Widget Closed: BrowserFrame
-3:36:43 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-3:36:43 Microsoft.Shutdown.OnWindowClosing
-3:36:43 Microsoft.Browser_Removed
-3:36:45 Microsoft.NewBrowser_Popup
-3:36:45 Microsoft.BrowserList.AddBrowser
-3:36:45 Browser54 Insert active Tab54 at 0
-3:36:45 Tab54 StartNav375 #auto_toplevel
-3:36:45 Tab54 StartNav376 #typed
-3:36:45 Tab54 FinishNav375
-3:36:45 Tab54 PageLoad
-3:36:45 Tab54 FinishNav376
-3:36:45 Tab54 PageLoad
-3:36:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-3:36:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_False
-3:36:45 Microsoft.Shutdown.OnWindowClosing
-3:36:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-3:36:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-3:36:45 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-3:36:45 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-3:36:45 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-3:36:45 Microsoft.Shutdown.TabStripModel.CloseAllTabs
-3:36:45 Microsoft.Shutdown.TabStripModel.CloseTabs
-3:36:45 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
-3:36:45 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
-3:36:45 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
-3:36:45 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
-3:36:45 Microsoft.Shutdown.TabStripModel.CloseWebContentses
-3:36:45 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
-3:36:45 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
-3:36:45 Tab54 RenderProcessGone
-3:36:45 Microsoft.UnloadController.ClearUnloadState
-3:36:45 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
-3:36:45 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
-3:36:45 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
-3:36:45 Microsoft.UnloadController.ClearUnloadState
-3:36:45 Browser54 Close Tab54 at 0
-3:36:45 Tab54 WebContentsDestroyed
-3:36:45 Microsoft.UnloadController.TabStripEmpty
-3:36:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-3:36:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-3:36:45 Microsoft.Shutdown.OnWindowClosing
-3:36:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-3:36:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-3:36:45 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-3:36:45 Widget Closed: BrowserFrame
-3:36:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-3:36:45 Microsoft.Shutdown.OnWindowClosing
-3:36:45 Microsoft.Browser_Removed
-3:36:53 Microsoft.NewBrowser_Popup
-3:36:53 Microsoft.BrowserList.AddBrowser
-3:36:53 Browser55 Insert active Tab55 at 0
-3:36:54 Tab55 StartNav377 #auto_toplevel
-3:36:54 Tab55 StartNav378 #typed
-3:36:54 Tab55 StartNav379 #typed
-3:36:54 Tab55 FinishNav377
-3:36:54 Tab55 PageLoad
-3:36:54 Tab55 FinishNav378
-3:36:54 Tab55 PageLoad
-3:36:54 Tab55 FinishNav379
-3:36:54 Tab55 PageLoad
-3:36:55 Tab55 StartNav380 #typed
-3:36:55 Tab55 FinishNav380
-3:36:55 Tab55 PageLoad
-3:36:57 Tab55 StartNav381 #typed
-3:36:57 Tab55 FinishNav381
-3:36:57 Tab55 PageLoad
-3:36:59 Tab55 StartNav382 #typed
-3:36:59 Tab55 FinishNav382
-3:36:59 Tab55 PageLoad
-3:37:05 Tab55 StartNav383 #typed
-3:37:05 Tab55 FinishNav383
-3:37:05 Tab55 PageLoad
-3:37:09 Tab55 StartNav384 #typed
-3:37:09 Tab55 FinishNav384
-3:37:09 Tab55 PageLoad
-3:37:11 Tab55 StartNav385 #typed
-3:37:11 Tab55 FinishNav385
-3:37:11 Tab55 PageLoad
-3:37:14 Tab55 StartNav386 #typed
-3:37:14 Tab55 FinishNav386
-3:37:14 Tab55 PageLoad
-3:37:19 Tab55 StartNav387 #typed
-3:37:19 Tab55 FinishNav387
-3:37:19 Tab55 PageLoad
-3:37:21 Tab55 StartNav388 #typed
-3:37:21 Tab55 FinishNav388
-3:37:21 Tab55 PageLoad
-3:37:25 Tab55 StartNav389 #typed
-3:37:25 Tab55 FinishNav389
-3:37:25 Tab55 PageLoad
-3:37:37 Tab55 StartNav390 #typed
-3:37:37 Tab55 FinishNav390
-3:37:37 Tab55 PageLoad
-3:37:40 Tab55 StartNav391 #typed
-3:37:40 Tab55 FinishNav391
-3:37:40 Tab55 PageLoad
-3:37:54 Tab55 StartNav392 #typed
-3:37:54 Tab55 FinishNav392
-3:37:54 Tab55 PageLoad
-3:37:56 Tab55 StartNav393 #typed
-3:37:56 Tab55 FinishNav393
-3:37:56 Tab55 PageLoad
+3:50:42 Tab57 StartNav429 #typed
+3:50:42 Tab57 FinishNav429
+3:50:42 Tab57 PageLoad
+3:50:44 Tab57 StartNav430 #typed
+3:50:44 Tab57 FinishNav430
+3:50:44 Tab57 PageLoad
+3:50:46 Tab57 StartNav431 #typed
+3:50:46 Tab57 FinishNav431
+3:50:46 Tab57 PageLoad
+3:50:46 Tab57 StartNav432 #typed
+3:50:46 Tab57 FinishNav432
+3:50:46 Tab57 PageLoad
+3:50:47 Tab57 StartNav433 #typed
+3:50:47 Tab57 FinishNav433
+3:50:47 Tab57 PageLoad
+3:50:48 Tab57 StartNav434 #typed
+3:50:48 Tab57 FinishNav434
+3:50:48 Tab57 PageLoad
+3:50:52 Tab57 StartNav435 #typed
+3:50:52 Tab57 FinishNav435
+3:50:52 Tab57 PageLoad
+3:51:13 Tab57 StartNav436 #typed
+3:51:13 Tab57 FinishNav436
+3:51:13 Tab57 PageLoad
+3:51:16 Tab57 StartNav437 #typed
+3:51:16 Tab57 FinishNav437
+3:51:16 Tab57 PageLoad
+3:52:06 Tab57 StartNav438 #typed
+3:52:06 Tab57 FinishNav438
+3:52:06 Tab57 PageLoad
+3:52:07 Tab57 StartNav439 #typed
+3:52:07 Tab57 FinishNav439
+3:52:07 Tab57 PageLoad
+3:52:09 Tab57 StartNav440 #typed
+3:52:09 Tab57 FinishNav440
+3:52:09 Tab57 PageLoad
+3:52:11 Tab57 StartNav441 #typed
+3:52:11 Tab57 FinishNav441
+3:52:11 Tab57 PageLoad
+3:52:52 Tab57 StartNav442 #typed
+3:52:52 Tab57 FinishNav442
+3:52:52 Tab57 PageLoad
+3:52:52 Tab57 StartNav443 #typed
+3:52:52 Tab57 FinishNav443
+3:52:52 Tab57 PageLoad
+3:52:56 Tab57 StartNav444 #typed
+3:52:56 Tab57 FinishNav444
+3:52:56 Tab57 PageLoad
+3:53:25 Tab57 StartNav445 #typed
+3:53:25 Tab57 FinishNav445
+3:53:25 Tab57 PageLoad
+3:53:47 Tab57 StartNav446 #typed
+3:53:47 Tab57 FinishNav446
+3:53:47 Tab57 PageLoad
+3:53:47 Tab57 StartNav447 #typed
+3:53:47 Tab57 FinishNav447
+3:53:47 Tab57 PageLoad
