@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;algorithms.application.java&apos; to &apos;AlgorithmExercises.java&apos;&#x0D;&#x0A;- Original project: &apos;algorithms&apos;&#x0D;&#x0A;- Original element: &apos;algorithms.application.java&apos;&#x0D;&#x0A;- Renamed element: &apos;algorithms.AlgorithmExercises.java&apos;" description="Rename compilation unit &apos;application.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;algorithms{application.java" name="AlgorithmExercises.java" references="false" stamp="1749497707678" version="1.0"/>
+</session>
