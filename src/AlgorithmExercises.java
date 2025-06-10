@@ -237,7 +237,9 @@ public class AlgorithmExercises {
                 left++;
             }
 
+            // Adiciona o caractere atual à janela (conjunto de caracteres únicos)
             window.add(rightChar);
+            // Atualiza o comprimento máximo se a janela atual for maior
             maxLength = Math.max(maxLength, right - left + 1);
         }
 
