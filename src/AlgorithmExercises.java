@@ -173,20 +173,14 @@ public class AlgorithmExercises {
      * SAÍDA: true (ignorando espaços e maiúsculas)
      */
     public static boolean isPalindrome(String s) {
-        // Remove caracteres não alfanuméricos e converte para minúsculo
-        String cleaned = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-
-        int left = 0;
-        int right = cleaned.length() - 1;
-
+        int left = 0, right = s.length() - 1;
         while (left < right) {
-            if (cleaned.charAt(left) != cleaned.charAt(right)) {
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) left++;
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) right--;
+            if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right)))
                 return false;
-            }
-            left++;
-            right--;
+            left++; right--;
         }
-
         return true;
     }
     // Complexidade: Tempo O(n), Espaço O(n) devido ao replaceAll
