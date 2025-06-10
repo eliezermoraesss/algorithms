@@ -1,6 +1,16 @@
 package algorithms;
 
 public class BinarySearch {
+	
+	// ===========================================
+    // 1. BINARY SEARCH
+    // ===========================================
+
+    /**
+     * ENUNCIADO: Implementar busca binária em array ordenado
+     * ENTRADA: Array ordenado [1, 3, 5, 7, 9, 11, 13, 15] e target = 7
+     * SAÍDA: Índice do elemento (3) ou -1 se não encontrado
+     */
 	public static int binarySearch(int[] arr, int target) {
 		int left = 0;
 		int right = arr.length - 1;
@@ -18,9 +28,10 @@ public class BinarySearch {
 		}
 		return -1;
 	}
+	// Complexidade: Tempo O(log n), Espaço O(1)
 	
 	public static void main(String[] args) {
-		int[] sortedArray = {20, 12, 1, 3, 5, 7, 9, 11, 13, 15};
-		System.out.println("Binary Search (7): " + binarySearch(sortedArray, 20));
+		int[] sortedArray = {1, 3, 5, 7, 9, 11, 13, 15};
+		System.out.println("Binary Search (7): " + binarySearch(sortedArray, 7));
 	}
 }
