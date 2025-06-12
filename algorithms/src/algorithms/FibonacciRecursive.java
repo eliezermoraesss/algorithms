@@ -21,6 +21,6 @@ public class FibonacciRecursive {
 	// Complexidade: Tempo O(2^n), Espaço O(n) - muito ineficiente!
 	
 	public static void main(String[] args) {
-		System.out.println("Fibonacchi Recursive: " + fibonacchiRecursive(46));
+		System.out.println("Fibonacchi Recursive: " + fibonacchiRecursive(45));
 	}
 }

@@ -1,30 +1,78 @@
-26:35:17 Tab130 StartNav916 #typed
-26:35:17 Tab130 FinishNav916
-26:35:17 Tab130 PageLoad
-26:35:21 Tab130 StartNav917 #typed
-26:35:21 Tab130 FinishNav917
-26:35:21 Tab130 PageLoad
-26:35:21 Tab130 StartNav918 #typed
-26:35:21 Tab130 FinishNav918
-26:35:21 Tab130 PageLoad
-26:35:28 Tab130 StartNav919 #typed
-26:35:28 Tab130 FinishNav919
-26:35:28 Tab130 PageLoad
-26:35:30 Tab130 StartNav920 #typed
-26:35:30 Tab130 FinishNav920
-26:35:30 Tab130 PageLoad
-26:35:40 Tab130 StartNav921 #typed
-26:35:40 Tab130 FinishNav921
-26:35:40 Tab130 PageLoad
-26:35:41 Tab130 StartNav922 #typed
-26:35:41 Tab130 FinishNav922
-26:35:41 Tab130 PageLoad
-26:35:47 Tab130 StartNav923 #typed
-26:35:47 Tab130 FinishNav923
-26:35:47 Tab130 PageLoad
-26:35:48 Tab130 StartNav924 #typed
-26:35:48 Tab130 FinishNav924
-26:35:48 Tab130 PageLoad
-26:35:49 Tab130 StartNav925 #typed
-26:35:49 Tab130 FinishNav925
-26:35:49 Tab130 PageLoad
+2:10:20 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+2:10:20 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+2:10:20 Microsoft.Shutdown.TabStripModel.CloseAllTabs
+2:10:20 Microsoft.Shutdown.TabStripModel.CloseTabs
+2:10:20 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+2:10:20 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+2:10:20 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+2:10:20 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+2:10:20 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+2:10:20 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+2:10:20 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+2:10:20 Tab51 RenderProcessGone
+2:10:20 Microsoft.UnloadController.ClearUnloadState
+2:10:20 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+2:10:20 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+2:10:20 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+2:10:20 Microsoft.UnloadController.ClearUnloadState
+2:10:20 Browser51 Close Tab51 at 0
+2:10:20 Tab51 WebContentsDestroyed
+2:10:20 Microsoft.UnloadController.TabStripEmpty
+2:10:20 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+2:10:20 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+2:10:20 Microsoft.Shutdown.OnWindowClosing
+2:10:20 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+2:10:20 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+2:10:20 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+2:10:20 Widget Closed: BrowserFrame
+2:10:20 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+2:10:20 Microsoft.Shutdown.OnWindowClosing
+2:10:20 Microsoft.Browser_Removed
+2:11:10 Microsoft.NewBrowser_Popup
+2:11:10 Microsoft.BrowserList.AddBrowser
+2:11:10 Browser54 Insert active Tab54 at 0
+2:11:10 Tab54 StartNav588 #auto_toplevel
+2:11:10 Tab54 StartNav589 #typed
+2:11:10 Tab54 FinishNav588
+2:11:10 Tab54 PageLoad
+2:11:10 Tab54 FinishNav589
+2:11:10 Tab54 PageLoad
+2:11:11 Tab54 StartNav590 #typed
+2:11:11 Tab54 FinishNav590
+2:11:11 Tab54 PageLoad
+2:11:12 Tab54 StartNav591 #typed
+2:11:12 Tab54 FinishNav591
+2:11:12 Tab54 PageLoad
+5:21:12 Microsoft.NewBrowser_Popup
+5:21:12 Microsoft.BrowserList.AddBrowser
+5:21:12 Browser55 Insert active Tab55 at 0
+5:21:12 Tab55 StartNav592 #auto_toplevel
+5:21:12 Tab55 StartNav593 #typed
+5:21:12 Tab55 FinishNav592
+5:21:12 Tab55 PageLoad
+5:21:12 Tab55 FinishNav593
+5:21:12 Tab55 PageLoad
+5:21:13 Tab55 StartNav594 #typed
+5:21:13 Tab55 FinishNav594
+5:21:13 Tab55 PageLoad
+5:21:13 Tab55 StartNav595 #typed
+5:21:13 Tab55 FinishNav595
+5:21:13 Tab55 PageLoad
+5:21:15 Tab55 StartNav596 #typed
+5:21:15 Tab55 FinishNav596
+5:21:15 Tab55 PageLoad
+5:21:46 Tab55 StartNav597 #typed
+5:21:46 Tab55 FinishNav597
+5:21:46 Tab55 PageLoad
+5:21:53 Tab55 StartNav598 #typed
+5:21:53 Tab55 FinishNav598
+5:21:53 Tab55 PageLoad
+5:21:53 Tab55 StartNav599 #typed
+5:21:53 Tab55 FinishNav599
+5:21:53 Tab55 PageLoad
+5:22:41 Tab55 StartNav600 #typed
+5:22:41 Tab55 FinishNav600
+5:22:41 Tab55 PageLoad
+5:22:48 Tab55 StartNav601 #typed
+5:22:48 Tab55 FinishNav601
+5:22:48 Tab55 PageLoad

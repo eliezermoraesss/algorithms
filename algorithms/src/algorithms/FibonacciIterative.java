@@ -5,7 +5,7 @@ public class FibonacciIterative {
      * FIBONACCI ITERATIVO
      * ENUNCIADO: Calcular n-ésimo número de Fibonacci iterativamente
      * ENTRADA: n = 10
-     * SAÍDA: 55
+     * SAÍDA: 55 (sequência: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55)
      */
 	
 	public static int fibonacchiIterative(int n) {
@@ -28,6 +28,6 @@ public class FibonacciIterative {
 	// Comprexidade: Tempo O(n), Espaço O(1) - muito mais eficiente!
 	
 	public static void main(String[] args) {
-		System.out.println("Fibonacchi Iterative: " + fibonacchiIterative(46));
+		System.out.println("Fibonacchi Iterative: " + fibonacchiIterative(40));
 	}
 }
