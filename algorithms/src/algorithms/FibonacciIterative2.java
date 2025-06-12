@@ -13,9 +13,9 @@ public class FibonacciIterative2 {
 			System.out.println(n);
 		}
 		
-		int anterior = 0;
-		int atual = 1;
 		int proximo = 0;
+		int anterior = 0;
+		int atual = 1;	
 		System.out.println(atual);
 		for (int i = 2; i <= n; i ++) {
 			proximo = atual + anterior;
