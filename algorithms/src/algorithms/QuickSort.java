@@ -32,7 +32,7 @@ public class QuickSort {
 			}
 		}
 		
-		// Coloca o pivot na possição correta
+		// Coloca o pivot na posição correta
 		int temp = arr[i + 1];
 		arr[i + 1] = arr[high];
 		arr[high] = temp;

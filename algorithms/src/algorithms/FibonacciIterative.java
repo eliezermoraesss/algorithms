@@ -28,6 +28,6 @@ public class FibonacciIterative {
 	// Comprexidade: Tempo O(n), Espaço O(1) - muito mais eficiente!
 	
 	public static void main(String[] args) {
-		System.out.println("Fibonacchi Iterative: " + fibonacchiIterative(40));
+		System.out.println("Fibonacchi Iterative: " + fibonacchiIterative(46));
 	}
 }
