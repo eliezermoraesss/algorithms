@@ -55,11 +55,11 @@ public class FindMaxSum {
 	// Complexidade: Tempo O(n), Espaço O(1)
 
 	public static void main(String[] args) {
-		int[] array1 = {1, 2, 3, 4};
-		int[] array2 = {-5, -2, -3, -8};
-		System.out.println(findMaxSum(array1));
-		System.out.println(findMaxSum(array2));
-		System.out.println(findMaxSum2(array1));
-		System.out.println(findMaxSum2(array2));
+		int[] array1 = {1, 2, 3, 0};
+		int[] array2 = {-5, -2, -3, -1};
+		System.out.println("A maior soma possível é " + findMaxSum(array1));
+		System.out.println("A maior soma possível é " + findMaxSum(array2));
+		System.out.println("A maior soma possível é " + findMaxSum2(array1));
+		System.out.println("A maior soma possível é " + findMaxSum2(array2));
 	}
 }
