@@ -26,6 +26,6 @@ public class FibonacciIterative2 {
 	}
 	
 	public static void main(String[] args) {
-		fibonacciIterative(10);
+		fibonacciIterative(47);
 	}
 }
